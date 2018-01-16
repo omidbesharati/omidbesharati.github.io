@@ -1,0 +1,24 @@
+.verticalLine {
+  border-right: thick solid #ff0000;
+}
+
+.card {
+  float: left;
+}
+
+.container {
+  max-width: 1280px;
+}
+
+article {
+  padding: 18px;
+}
+
+
+.row {
+  padding: 12px;
+}
+
+#about {
+  padding-left: 18px;
+}
